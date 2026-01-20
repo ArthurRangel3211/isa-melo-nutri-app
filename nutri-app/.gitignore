@@ -1,0 +1,19 @@
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Arquivos de IDE (VS Code, PHPStorm, etc)
+.vscode/
+.idea/
+.project
+.settings/
+*.sublime-workspace
+
+# Logs de erro do PHP (se tiver)
+error_log
+*.log
+
+# Pastas de dependências (caso você use no futuro)
+vendor/
+node_modules/
